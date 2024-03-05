@@ -1,16 +1,13 @@
-### Hi there 👋
+**Olá, sou Yure**
 
-<!--
-**SantanaYure/santanaYure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor Web e RPGista nas Horas Vagas**
 
-Here are some ideas to get you started:
+Olá! Eu sou um desenvolvedor web apaixonado por transformar ideias em realidade. Com experiência em JavaScript, HTML, CSS, Tailwind, React.js e Node.js, estou constantemente aprendendo e aprimorando minhas habilidades para criar soluções criativas e inteligentes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Sobre Mim**
+
+**Desenvolvimento Web:** Tenho experiência tanto no front-end, criando interfaces elegantes e responsivas, quanto no back-end, desenvolvendo APIs robustas e escaláveis.
+**Apaixonado por Tecnologia:** Estou sempre atualizado com as últimas tendências e tecnologias do mundo do desenvolvimento web.
+**Hobby de RPG:** Nas minhas horas vagas, gosto de me aventurar em mundos de fantasia, criando histórias épicas e explorando novas narrativas.
+
+Se você procura alguém que seja criativo, apaixonado e comprometido em entregar resultados de alta qualidade, estou pronto para colaborar em projetos desafiadores e inovadores.
