@@ -1,8 +1,6 @@
-**Olá, sou Yure**
+**Olá, Yure aqui!**
 
-**Desenvolvedor Web e RPGista nas Horas Vagas**
-
-Olá! Eu sou um desenvolvedor web apaixonado por transformar ideias em realidade. Com experiência em JavaScript, HTML, CSS, Tailwind, React.js e Node.js, estou constantemente aprendendo e aprimorando minhas habilidades para criar soluções criativas e inteligentes.
+Eu sou um desenvolvedor web apaixonado por transformar ideias em realidade. Com experiência em JavaScript, HTML, CSS, Tailwind, React.js e Node.js, estou constantemente aprendendo e aprimorando minhas habilidades para criar soluções criativas e inteligentes.
 
 **Sobre Mim**
 
