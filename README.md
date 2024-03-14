@@ -10,18 +10,13 @@ Eu sou um desenvolvedor web apaixonado por transformar ideias em realidade. Com 
 
 Se você procura alguém que seja criativo, apaixonado e comprometido em entregar resultados de alta qualidade, estou pronto para colaborar em projetos desafiadores e inovadores.
 
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🎓 Estudando Desenvolvimento Full Stack na Cubos Academy.
+- 🌱 Aprendendo mais sobre API Rest.
 
 ## Minhas Skills
-
-**Aplicações e dados**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
