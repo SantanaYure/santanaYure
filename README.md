@@ -29,7 +29,6 @@ Se você procura alguém que seja criativo, apaixonado e comprometido em entrega
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 
-
 **Utilidades**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
@@ -38,7 +37,6 @@ Se você procura alguém que seja criativo, apaixonado e comprometido em entrega
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
 
 **Ferramentas de desenvolvimento**
 
