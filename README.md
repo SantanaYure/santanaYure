@@ -52,6 +52,5 @@ Se você procura alguém que seja criativo, apaixonado e comprometido em entrega
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([https://github.com/SantanaYure](https://github.com/SantanaYure)https://github.com/SantanaYure)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yure-santana/)](https://www.linkedin.com/in/yure-santana/)
+[![Outlook](https://img.shields.io/badge/-yure.s.santana@outlook.com-006bed?style=flat-square&logo=Outlook&logoColor=white&link=mailto:yure.s.santana@outlook.com)](mailto:yure.s.santana@outlook.com)
