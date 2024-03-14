@@ -37,8 +37,6 @@ Se você procura alguém que seja criativo, apaixonado e comprometido em entrega
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<br/>
-
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Yure-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yure-santana/)](https://www.linkedin.com/in/yure-santana/)
