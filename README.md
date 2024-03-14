@@ -46,10 +46,6 @@ Se você procura alguém que seja criativo, apaixonado e comprometido em entrega
 
 <br/>
 
-<a href="[https://github.com/santanaYure](https://github.com/SantanaYure)" title="Perfil do Yure">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santanaYure&theme=dracula&show_icons=true" />
-</a>
-
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Yure-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yure-santana/)](https://www.linkedin.com/in/yure-santana/)
